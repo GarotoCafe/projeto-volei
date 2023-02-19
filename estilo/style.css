@@ -186,14 +186,14 @@ footer {
     text-decoration: none;
 }
 
-.github {
+.perfil {
     font-family: var(--fonte-link);
     text-decoration: none;
     font-weight: bold;
     color: #a574ff;
     transition-duration: .5s;
 }
-.github:hover {
+.perfil:hover {
     font-family: var(--fonte-link);
     text-decoration: none;
     color: #693c7a;
